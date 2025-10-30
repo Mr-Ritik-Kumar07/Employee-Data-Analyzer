@@ -1,0 +1,57 @@
+🧠 Employee Data Analyzer (HR Dashboard using Python)
+📌 Project Overview
+
+The Employee Data Analyzer is a Python-based HR analytics dashboard that helps visualize and understand workforce data. It processes employee records from a CSV file and generates useful insights such as salary trends, department distribution, gender ratio, and performance patterns.
+This project demonstrates how Python can be used for data-driven decision-making in HR using tools like Pandas, Matplotlib, and Seaborn.
+
+⚙️ Tech Stack
+
+Language: Python
+
+Libraries: pandas, numpy, matplotlib, seaborn
+
+Data Format: CSV
+
+🔍 Key Features
+
+✅ Load and clean HR data (CSV)
+✅ Department-wise employee count
+✅ Average salary analysis by department
+✅ Gender distribution visualization
+✅ Age vs Salary scatter analysis
+✅ Correlation heatmap of employee metrics
+✅ Top 10 highest-paid employees
+✅ Experience vs Salary trend line
+
+📊 Output Visuals
+
+Bar charts for salary and department analysis
+
+Pie chart for gender ratio
+
+Heatmap for correlation
+
+Scatter and line plots for relationship trends
+
+💡 Insights Generated
+
+Identify departments with the highest salaries
+
+Observe how experience affects pay
+
+Compare performance metrics across teams
+
+Discover correlations between age, salary, and experience
+
+🧩 How to Run
+
+Place your dataset file as advanced_employee_data.csv in the same folder.
+
+Run the Jupyter Notebook or Python script.
+
+All charts and insights will be displayed automatically.
+
+🏁 Project Goals
+
+To help HR teams and data analysts make better workforce decisions through visual insights.
+This project can be extended with predictive analytics and AI-based attrition analysis.
